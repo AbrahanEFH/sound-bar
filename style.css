@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Poppins:wght@200;400;600&family=Staatliches&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EF6262;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.btn {
+    background-color: #468B97;
+    color: white;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+    margin: 0.5rem;
+}
